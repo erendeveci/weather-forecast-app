@@ -1,0 +1,13 @@
+.cityContainer {
+   font-family: sans-serif;
+    margin: 0 auto;
+    margin-top:2rem;
+    color: white;
+    width: 50%;
+    height: 10rem;
+    
+    
+    border-radius: 1rem;
+    text-align: center;
+  }
+   
